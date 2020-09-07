@@ -1,19 +1,23 @@
 {
-  "name": "psimeme",
-  "version": "1.0.1",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "author": {
+    "name": "fingerskier"
   },
+  "bugs": {
+    "url": "https://github.com/fingerskier/psimeme/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "",
+  "homepage": "https://github.com/fingerskier/psimeme#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "psimeme",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fingerskier/psimeme.git"
   },
-  "author": "fingerskier",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/fingerskier/psimeme/issues"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/fingerskier/psimeme#readme"
+  "version": "1.0.1"
 }
